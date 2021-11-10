@@ -39,3 +39,11 @@
 ## Tools
 
 * Heroku: to publish fast and easy sets of
+
+## Best practices for Software Development
+
+* When I'm faced with the need to explain git flow to an experienced / inexperienced audience alike:
+ [Gitflow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
+
+* When I'm faced with the 'I need 100% unit tests coverage on that solution' speech: [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
+ ( _Which I always go back to anyway as I find the need to be reminded of this pragmatic approach quite regularly..._ :slightly_smiling_face: )
